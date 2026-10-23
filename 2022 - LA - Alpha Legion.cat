@@ -5404,6 +5404,175 @@
         <categoryLink name="Heavy Support:" hidden="false" id="f9a2-c854-4433-9f1" targetId="7031-469a-1aeb-eab0" primary="true"/>
       </categoryLinks>
     </entryLink>
+    <entryLink id="9068-1cc4-2e07-025c" name="[LC] Legion Indomitus Praetor" hidden="false" collective="false" import="false" targetId="0293-aa91-4e32-bd5f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b2c0-78d3-83f9-4998" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="247a-30d9-55fa-eaa2" name="HQ" hidden="false" targetId="4f85-eb33-30c9-8f51" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="03ff-8f88-5559-d76f" name="[LC] Legion Indomitus Centurion" hidden="false" collective="false" import="false" targetId="4d40-5fee-4219-8354" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bd9c-c9fb-9459-a063" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="a18c-1e04-fb8e-44c2" name="HQ" hidden="false" targetId="4f85-eb33-30c9-8f51" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a06d-f04d-2c79-90aa" name="[LC] Legion Saturnine Centurion" hidden="false" collective="false" import="false" targetId="3e29-1bf1-48c9-b302" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0fe3-bff5-37af-c366" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="f33c-355b-05b9-6b47" name="HQ" hidden="false" targetId="4f85-eb33-30c9-8f51" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="644e-37a4-659d-690d" name="[LC] Legion Indomitus Command Squad" hidden="false" collective="false" import="false" targetId="10a1-9ca0-40bd-81fd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="90c8-3f83-de2f-271e" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="6043-f802-b5ea-fed2" name="HQ" hidden="false" targetId="4f85-eb33-30c9-8f51" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6250-023a-590e-bc61" name="[LC] Legion Contemptor Centurion" hidden="false" collective="false" import="false" targetId="af55-3d23-4179-b438" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="03d9-83c5-823c-d4bb" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="d215-f0b5-eac5-5b7a" name="HQ" hidden="false" targetId="4f85-eb33-30c9-8f51" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8002-40af-7444-723a" name="[LC] Legion Castra Ferrum Centurion" hidden="false" collective="false" import="false" targetId="7cbb-4e3a-4030-b935" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1711-ad37-8583-a506" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="bf51-7746-b6a2-7f69" name="HQ" hidden="false" targetId="4f85-eb33-30c9-8f51" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cfa0-3e17-fff5-93fd" name="[LC] Legion Land Raider Dionysus" hidden="false" collective="false" import="false" targetId="4f0d-7dbb-4d94-a26e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5452-09dc-7614-13f5" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="e30a-8b5d-25d8-c99e" name="HQ" hidden="false" targetId="4f85-eb33-30c9-8f51" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ab42-9d74-13da-ca5e" name="[LC] Legion Terminator Saturnine Squad" hidden="false" collective="false" import="false" targetId="77f4-7d9e-429c-9101" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c3dd-f2cc-f8db-c79a" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="33cd-00f2-d51c-631b" name="Elites" hidden="false" targetId="7aee-565f-b0ae-294e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5faa-d0ca-ffd2-4421" name="[LC] Legion Assault Veteran Squad" hidden="false" collective="false" import="false" targetId="bbbd-1956-4682-9ea4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2763-0dfa-72a3-bc7e" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="677c-bb83-31c3-38d1" name="Elites" hidden="false" targetId="7aee-565f-b0ae-294e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d290-2ee9-0f24-9009" name="[LC] Legion Contemptor-Cortus Dreadnought Talon" hidden="false" collective="false" import="false" targetId="970a-bd04-4d61-ae08" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e226-43f9-b8d3-def4" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="dc92-6f8a-c79a-0691" name="Elites" hidden="false" targetId="7aee-565f-b0ae-294e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0db4-ae38-85b2-55ca" name="[LC] Possessed Legionnaires" hidden="false" collective="false" import="false" targetId="f928-6ae6-4699-ba2b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9b82-06e7-80a8-f800" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="3fc4-5418-5df0-b1e3" name="Elites" hidden="false" targetId="7aee-565f-b0ae-294e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8168-3e1d-e0ae-2a45" name="[LC] Legion Servo-Automata Maniple" hidden="false" collective="false" import="false" targetId="6c47-ea09-4079-82bb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2363-0680-7227-91ce" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="fbe7-f1d4-a8e3-6963" name="Elites" hidden="false" targetId="7aee-565f-b0ae-294e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="356f-47dc-c0e5-d1a2" name="[LC] Legion Hussar Squadron" hidden="false" collective="false" import="false" targetId="4437-5f83-4383-9545" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d419-e3c1-1545-9840" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="a04a-62b7-e6c5-fb99" name="Troops" hidden="false" targetId="9b5d-fac7-799b-d7e7" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="00af-3a93-77c3-ac8d" name="[LC] Legion Sky-Seeker Squadron" hidden="false" collective="false" import="false" targetId="c0a1-df5f-4e38-89e8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cfb9-f342-2856-0fc3" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="af0d-097a-d6cb-851f" name="Troops" hidden="false" targetId="9b5d-fac7-799b-d7e7" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cfbd-7b93-0f30-9b8d" name="[LC] Legion Assault Support Squad" hidden="false" collective="false" import="false" targetId="c91c-8095-41e1-a730" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3a5b-073a-640c-6981" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="31ec-b1a5-4428-8b6a" name="Troops" hidden="false" targetId="9b5d-fac7-799b-d7e7" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f150-baf9-6408-6142" name="[LC] Legion Novicii Squad*" hidden="false" collective="false" import="false" targetId="7322-a79c-4ce8-8b16" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4579-e879-982e-cee2" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="d34f-4d42-2ba5-f7fa" name="Troops" hidden="false" targetId="9b5d-fac7-799b-d7e7" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f44e-ce46-e124-705c" name="[LC] Mutated Spawn" hidden="false" collective="false" import="false" targetId="d20c-e065-4357-b70c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1bd7-d17f-a56b-a6c4" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="ae94-4b39-cf5c-dea2" name="Fast Attack" hidden="false" targetId="20ef-cd01-a8da-376e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5afb-553a-ec95-2db1" name="[LC] Legion Storm Eagle Transporter" hidden="false" collective="false" import="false" targetId="e88e-ed4c-45bf-b30a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="271a-8ef3-2a63-6d5c" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="7150-7be2-4233-5e45" name="Fast Attack" hidden="false" targetId="20ef-cd01-a8da-376e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3c3a-adfd-59d3-b862" name="[LC] Legion Sicaran Incinerator Squadron" hidden="false" collective="false" import="false" targetId="bb59-1d00-42d4-aaa7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6631-c7a9-0146-c6bd" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="873f-db09-e570-6509" name="Heavy Support" hidden="false" targetId="7031-469a-1aeb-eab0" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cf25-b9ae-15f6-4e90" name="[LC] Legion Vindicator Thunderer Squadron" hidden="false" collective="false" import="false" targetId="0154-d7ea-4dcf-8db1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f274-3755-1d9a-3ace" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="eb74-f488-892c-914a" name="Heavy Support" hidden="false" targetId="7031-469a-1aeb-eab0" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0264-9180-5143-7493" name="[LC] Legion Fire Raptor Destroyer" hidden="false" collective="false" import="false" targetId="7264-ce9d-4a66-834e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="51d1-8b99-21c9-bfa4" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="2591-b9c4-b40e-d233" name="Heavy Support" hidden="false" targetId="7031-469a-1aeb-eab0" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b85c-210b-5d6d-d5ed" name="[LC] Early Great Crusade Havoc Squad" hidden="false" collective="false" import="false" targetId="e112-e4d2-45f7-b5bd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5939-ad01-298d-6171" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="47aa-192b-83e8-a53c" name="Heavy Support" hidden="false" targetId="7031-469a-1aeb-eab0" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="afe0-eadf-33b9-828a" name="[LC] Legion Tartaros Heavy Destroyer Squad" hidden="false" collective="false" import="false" targetId="32a8-5aa5-4636-9115" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="566a-20b0-54f6-ce7a" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="bbb0-f98b-f563-2087" name="Heavy Support" hidden="false" targetId="7031-469a-1aeb-eab0" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="48ba-9a18-9cf4-9bc0" name="[LC] Legion Cataphractii Heavy Destroyer Squad" hidden="false" collective="false" import="false" targetId="a80d-c621-43b6-8d8b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b1bb-daaa-b1eb-8623" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="6cac-ecfb-242a-e5ed" name="Heavy Support" hidden="false" targetId="7031-469a-1aeb-eab0" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e7ea-e59a-7983-cfc9" name="[LC] Legion Banesword" hidden="false" collective="false" import="false" targetId="658b-333a-4c15-b739" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1941-1efb-04da-81b0" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="4d64-bfa5-59a5-cde8" name="Lords of War" hidden="false" targetId="c658-dc6b-727b-c488" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="05e7-93ca-87b2-7a45" name="[LC] Legion Doomhammer" hidden="false" collective="false" import="false" targetId="ac9d-af7c-4709-a6d2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6abd-5668-905e-3855" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="c01e-6467-877f-b65a" name="Lords of War" hidden="false" targetId="c658-dc6b-727b-c488" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="52f3-7d96-29f2-2129" name="[LC] Legion Orthrus Destroyer Squadron" hidden="false" collective="false" import="false" targetId="4b16-34fb-4262-95a2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d288-e76f-0397-4185" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="bdbf-46c5-1b72-27fb" name="Lords of War" hidden="false" targetId="c658-dc6b-727b-c488" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d911-cab8-bd04-1a17" name="[LC] Basilisk Anti-Air Emplacement Battery" hidden="false" collective="false" import="false" targetId="ca32-4dab-4bf6-b3ed" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="06ec-8176-ed92-c777" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/>
+        <categoryLink id="1bbf-c2bf-8aa7-0b8c" name="Fortification" hidden="false" targetId="a24f-12d8-36c1-f477" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7e0f-a8c6-cb5f-7d08" name="[LC] Omegon" hidden="false" collective="false" import="false" targetId="59d8-f88c-d6a9-290e" type="selectionEntry"><categoryLinks><categoryLink id="9aae-7fb7-49bd-96ad" name="Unit:" hidden="false" targetId="36c3-e85e-97cc-c503" primary="false"/><categoryLink id="452c-dc2d-aad9-a216" name="low" hidden="false" targetId="c658-dc6b-727b-c488" primary="true"/></categoryLinks></entryLink>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="6161-d387-f086-0958" name="Lernaean Terminator Squad" publicationId="09c5-eeae-f398-b653" page="338" hidden="false" collective="false" import="true" type="unit">
@@ -8295,5 +8464,7 @@ A weapon with this special rule may not be used to make Shooting Attacks as part
     <catalogueLink id="4c19-55ad-bb7b-187c" name="LA -  XVII: Word Bearers" targetId="9edf-435d-b09a-9dd3" type="catalogue" importRootEntries="true"/>
     <catalogueLink id="615e-dbe4-e349-94ca" name="LA -  XVIII: Salamanders" targetId="765e-788c-dde3-4683" type="catalogue" importRootEntries="true"/>
     <catalogueLink id="0fd7-0093-a46a-ad80" name="LA - XIX: Raven Guard" targetId="64c8-badb-7d2a-890a" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5783-ec83-c5b0-6a8a" name="[Centura] Legiones Astartes" targetId="d76-4e81-2fef-caa1" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="42b6-dcbd-4024-8159" name="[Centura] Legion Units" targetId="e282-8049-8238-c544" type="catalogue" importRootEntries="false"/>
   </catalogueLinks>
 </catalogue>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="d76-4e81-2fef-caa1" name="[Centura] Legiones Astartes" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" revision="1" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntries>
-    <selectionEntry name="Legion Indomitus Praetor" type="unit" id="0293-aa91-4e32-bd5f" page="6" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Indomitus Praetor" type="unit" id="0293-aa91-4e32-bd5f" page="6" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8714-684d-4098-aa01"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="7c40-c676-42ad-a0d4" name="HQ"/>
@@ -203,7 +203,7 @@ Could not find rule: Independent Character
 Combi-Bolter is in two option lists for Legion Indomitus Praetor, you will need to combine them by hand.
 Power Weapon is in two option lists for Legion Indomitus Praetor, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Indomitus Centurion" type="unit" id="4d40-5fee-4219-8354" page="7" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Indomitus Centurion" type="unit" id="4d40-5fee-4219-8354" page="7" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="db10-a8ac-4d16-88aa"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="1d7d-6b6e-45a6-87f5" name="HQ"/>
@@ -394,7 +394,7 @@ Could not find rule: Independent Character
 Combi-Bolter is in two option lists for Legion Indomitus Centurion, you will need to combine them by hand.
 Power Weapon is in two option lists for Legion Indomitus Centurion, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Saturnine Centurion" type="unit" id="3e29-1bf1-48c9-b302" page="8" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Saturnine Centurion" type="unit" id="3e29-1bf1-48c9-b302" page="8" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="cfa1-3f32-4938-9a35"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="d7d3-98d1-4de8-a4e7" name="HQ"/>
@@ -670,7 +670,7 @@ Could not find rule: Independent Character
 Combi-Bolter is in two option lists for Legion Saturnine Centurion, you will need to combine them by hand.
 Power Weapon is in two option lists for Legion Saturnine Centurion, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Indomitus Command Squad" type="unit" id="10a1-9ca0-40bd-81fd" page="9" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Indomitus Command Squad" type="unit" id="10a1-9ca0-40bd-81fd" page="9" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="89e5-a3d5-4b19-96f0"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="7bec-8005-407f-a8fe" name="HQ"/>
@@ -1081,7 +1081,7 @@ Combi-Bolter is in two option lists for Legion Indomitus Chosen, you will need t
 Power Weapon is in two option lists for Legion Indomitus Chosen, you will need to combine them by hand.
 Power Weapon is in two option lists for Legion Indomitus Standard Bearer, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Contemptor Centurion" type="unit" id="af55-3d23-4179-b438" page="10" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Contemptor Centurion" type="unit" id="af55-3d23-4179-b438" page="10" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1374-44f5-423c-9133"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="dcca-d3f7-488f-9d39" name="HQ"/>
@@ -1299,7 +1299,7 @@ Could not find type or subtype &apos;Dreadnought&apos;</comment>
         </rule>
       </rules>
     </selectionEntry>
-    <selectionEntry name="Legion Castra Ferrum Centurion" type="unit" id="7cbb-4e3a-4030-b935" page="11" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Castra Ferrum Centurion" type="unit" id="7cbb-4e3a-4030-b935" page="11" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="8af9-10ba-4bb9-8706"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="07d6-e181-4e87-8d28" name="HQ"/>
@@ -1536,7 +1536,7 @@ Could not find type or subtype &apos;Dreadnought&apos;</comment>
         </rule>
       </rules>
     </selectionEntry>
-    <selectionEntry name="Legion Land Raider Dionysus" type="unit" id="4f0d-7dbb-4d94-a26e" page="12" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Land Raider Dionysus" type="unit" id="4f0d-7dbb-4d94-a26e" page="12" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6a61-7fec-4a9f-ad21"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="9ebc-021c-49b0-9c20" name="HQ"/>
@@ -1777,7 +1777,7 @@ Could not find wargear in The Legion Land Raider Dionysus may take one of the fo
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Master of the Legion^</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Land Raider Tartaros" type="unit" id="9919-c7b2-474e-bb78" page="13" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Land Raider Tartaros" type="unit" id="9919-c7b2-474e-bb78" page="13" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c1f8-95ce-4195-ae0e"/>
         <categoryLink targetId="4f85-eb33-30c9-8f51" primary="true" id="ee1e-3be3-4686-83e9" name="HQ"/>
@@ -2017,7 +2017,7 @@ Could not find wargear in The Legion Land Raider Tartaros may take one of the fo
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Vox Override</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Terminator Saturnine Squad" type="unit" id="77f4-7d9e-429c-9101" page="18" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Terminator Saturnine Squad" type="unit" id="77f4-7d9e-429c-9101" page="18" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="7a4f-9aac-47fe-bd37"/>
         <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="8f6b-652f-4a93-8a57" name="Elites"/>
@@ -2520,7 +2520,7 @@ Power Weapon is in two option lists for Legion Saturnine, you will need to combi
 Combi-Bolter is in two option lists for Legion Saturnine Sergeant, you will need to combine them by hand.
 Power Weapon is in two option lists for Legion Saturnine Sergeant, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Assault Veteran Squad" type="unit" id="bbbd-1956-4682-9ea4" page="19" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Assault Veteran Squad" type="unit" id="bbbd-1956-4682-9ea4" page="19" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c5b5-1aa2-4bc1-b1d0"/>
         <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="6a49-7310-45b7-af31" name="Elites"/>
@@ -3029,116 +3029,8 @@ Chainsword is in two option lists for Legion Assault Veteran Sergeant, you will 
 Bolt Pistol is in two option lists for Legion Assault Veteran, you will need to combine them by hand.
 Chainsword is in two option lists for Legion Assault Veteran, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Contemptor-Cortus Dreadnought Talon" type="unit" id="970a-bd04-4d61-ae08" page="20" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="b320-9501-4ade-913b"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a662-f9a5-446d-b806" name="Elites"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="0"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Contemptor-Cortus Dreadnought" id="6ae1-5d8c-46fa-bb48" page="20" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="f64f-de93-4fe5-8532" name="Contemptor-Cortus Dreadnought" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">8</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">5</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">7</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">6</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">5</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">3</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">9</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">2+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type">Dreadnought</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f449-e48d-41ec-aa40"/>
-            <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="8cae-1b35-46ea-93bf"/>
-          </constraints>
-          <entryLinks>
-            <entryLink name="Atomantic Repulsor" hidden="false" type="selectionEntry" targetId="9a54-1c1e-4a63-9dba" id="9e4d-5ee7-4ef6-9d06">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8e67-4605-49ca-90d9"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="065b-080d-450a-8e3d"/>
-              </constraints>
-            </entryLink>
-          </entryLinks>
-          <selectionEntryGroups>
-            <selectionEntryGroup name="Any model in the unit may replace a Gravis Power Fist with in-built Combi-Bolter with one of the following:" id="662d-dd76-4fe7-80c8">
-              <entryLinks>
-                <entryLink name="Toxiferno Cannon" hidden="false" type="selectionEntry" targetId="63c4-61d0-4e69-8912" id="d69b-0d34-4b3a-a3c1">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f00f-9825-43d4-b910"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Rad-Fragmentation Charge Launcher" hidden="false" type="selectionEntry" targetId="c5ac-bc89-4480-8430" id="0d0b-8004-47fa-a83e">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9a6f-f3b1-47d5-885b"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c24d-a5ce-4f62-83e6"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Chainfist with in-built Combi-Bolter
-	 Checked under Gravis Chainfist with in-built Combi-Bolter</comment>
-            </selectionEntryGroup>
-            <selectionEntryGroup name="Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:" id="c971-5018-4e8c-8079">
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9e4d-3890-45d3-b500"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear In-built Heavy Flamer
-	 Checked under In-built Heavy Flamer
-Could not find wargear In-built Plasma Blaster
-	 Checked under In-built Plasma Blaster
-Could not find wargear In-built Graviton Gun
-	 Checked under In-built Graviton Gun
-Could not find wargear In-built Meltagun
-	 Checked under In-built Meltagun</comment>
-            </selectionEntryGroup>
-          </selectionEntryGroups>
-          <costs>
-            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="150"/>
-          </costs>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Gravis Power Fists with in-built Combi-Bolters
-	 Checked under Gravis Power Fists with in-built Combi-Bolter
-Could not find wargear in Any model in the unit may replace a Gravis Power Fist with in-built Combi-Bolter with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find type or subtype &apos;Dreadnought&apos;</comment>
-        </selectionEntry>
-      </selectionEntries>
-      <infoLinks>
-        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="5571-833c-4d21-ae0b"/>
-        <infoLink name="Dreadnought Talon" hidden="false" type="rule" targetId="a924-2634-73fd-aa96" id="688e-1e40-4718-9f45"/>
-        <infoLink name="Move Through Cover" hidden="false" type="rule" targetId="2b6f-bfec-759e-1746" id="789a-b300-452c-9662"/>
-        <infoLink name="Fleet (X)" hidden="false" type="rule" targetId="ddc9-0b4b-78da-bbd2" id="89c0-5453-410e-86b7">
-          <modifiers>
-            <modifier type="set" field="name" value="Fleet (2)"/>
-          </modifiers>
-        </infoLink>
-        <infoLink name="Reactor Overcharge" hidden="false" type="rule" targetId="3613-b8a5-4f9a-8794" id="19cb-7e92-4cc7-b5fd"/>
-      </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Unstable Internment</comment>
-    </selectionEntry>
-    <selectionEntry name="Possessed Legionnaires" type="unit" id="f928-6ae6-4699-ba2b" page="21" publicationId="3970-79bb-bdc6-9599">
+    
+    <selectionEntry name="[LC] Possessed Legionnaires" type="unit" id="f928-6ae6-4699-ba2b" page="21" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6624-9720-4ef6-a058"/>
         <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="7433-111b-4244-8ae5" name="Elites"/>
@@ -3293,138 +3185,8 @@ Could not find wargear Two Twisted Talons
         <infoLink name="Traitor" hidden="false" type="rule" targetId="eff2-8b0e-21da-2f0d" id="0658-be0b-48fa-bd47"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Legion Servo-Automata Maniple" type="unit" id="6c47-ea09-4079-82bb" page="22" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6962-c082-4ba0-8cef"/>
-        <categoryLink targetId="7aee-565f-b0ae-294e" primary="true" id="a0e2-aafe-45a8-a806" name="Elites"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Legion Servo-Automata" id="1810-bea0-4c44-ad45" page="22" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="f4ed-4e00-4c13-bec4" name="Legion Servo-Automata" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">7</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">3</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">2</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">5</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">1</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">1</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">1</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">6</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">4+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type">Automata (Guardian)</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="e3ad-4a84-47cb-aca5"/>
-            <constraint type="max" value="8" field="selections" scope="parent" shared="true" id="175d-cc0f-4bfe-bb89"/>
-          </constraints>
-          <entryLinks>
-            <entryLink name="Servo-Arm" hidden="false" type="selectionEntry" targetId="4168-fc85-8912-7188" id="8e95-6931-4c54-bf65">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="dbf7-77ef-4b7c-84e1"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1f7-bb09-4a7c-8357"/>
-              </constraints>
-            </entryLink>
-            <entryLink name="Scout Armour" hidden="false" type="selectionEntry" targetId="b282-55aa-d1e2-ebe7" id="6360-7a15-4097-ac86">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="169d-1165-465a-82ae"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="09d0-8a44-44c7-98c3"/>
-              </constraints>
-            </entryLink>
-            <entryLink name="Servo-Arm" hidden="false" type="selectionEntry" targetId="fbef-812d-4d20-9285" id="6eb5-9c76-435b-9ac3">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6b33-d327-4fa0-99a9"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7d8e-6bad-4c8a-899f"/>
-              </constraints>
-            </entryLink>
-          </entryLinks>
-          <selectionEntryGroups>
-            <selectionEntryGroup name="Any Legion Servo-Automata may replace their Servo-Arm with one of the following:" id="cb40-80a1-442b-b007">
-              <entryLinks>
-                <entryLink name="Flamer" hidden="false" type="selectionEntry" targetId="f0d1-c88b-4f7a-a4ae" id="74df-fe23-47f4-80ad">
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9825-aead-4655-83ff"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Rotor Cannon" hidden="false" type="selectionEntry" targetId="37ec-a4b4-de7a-acf3" id="240c-dd93-4d99-8ba9">
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9476-6a67-4ddb-89f3"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Heavy Bolter" hidden="false" type="selectionEntry" targetId="6024-6953-b8f4-ce63" id="e5ad-9b0a-4bd9-8bff">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7ece-f858-4ef5-94b0"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Lascutter" hidden="false" type="selectionEntry" targetId="6331-c1b9-bf0e-d0e5" id="6c56-2e97-4791-ace1">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="98d2-0624-490f-9af5"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="43f5-3815-6b3a-a363" id="d0b5-e6d1-4e8e-b5ef">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="53e0-8260-4054-b9ae"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Multi-Melta" hidden="false" type="selectionEntry" targetId="9332-3834-cf3a-56b4" id="ee85-940f-4304-945b">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5217-4a62-4196-869f"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="bdc7-3f9b-4c67-8641" id="bde3-c762-487e-a393">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3dfa-1c3d-4ef9-8c54"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ebad-9926-4765-9081"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Missile Launcher (with Frag, Krak, and Flakk Missiles)
-	 Checked under Missile Launcher (with Frag, Krak, and Flakk Missiles)</comment>
-            </selectionEntryGroup>
-          </selectionEntryGroups>
-          <categoryLinks>
-            <categoryLink targetId="8745-b21e-8576-7c30" id="6e5d-cdbe-46b2-bf8a" name="Guardian" primary="false"/>
-            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="7fc7-1157-45df-800f" name="Guardian" primary="false"/>
-          </categoryLinks>
-          <costs>
-            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
-          </costs>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Legion Servo-Automata may replace their Servo-Arm with one of the following:
-Could not find type or subtype &apos;Automata&apos;</comment>
-        </selectionEntry>
-      </selectionEntries>
-      <infoLinks>
-        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="b25e-7d30-42ca-8030"/>
-        <infoLink name="Synthetica Mindlock" hidden="false" type="rule" targetId="39e7-9c74-4ec4-a87d" id="e635-a0d2-4627-a1da"/>
-        <infoLink name="Automata Attendants" hidden="false" type="rule" targetId="70b5-e3e7-4ff6-a1b4" id="f4b6-0dbb-44af-ae94"/>
-      </infoLinks>
-    </selectionEntry>
-    <selectionEntry name="Legion Hussar Squadron" type="unit" id="4437-5f83-4383-9545" page="26" publicationId="3970-79bb-bdc6-9599">
+    
+    <selectionEntry name="[LC] Legion Hussar Squadron" type="unit" id="4437-5f83-4383-9545" page="26" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5724-053f-46ea-93ef"/>
         <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="a710-13dc-48e2-8fa0" name="Troops"/>
@@ -3447,7 +3209,7 @@ Could not find type or subtype &apos;Automata&apos;</comment>
                 <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">1</characteristic>
                 <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">7</characteristic>
                 <characteristic typeId="e593-6b3c-f169-04f0" name="Save">3+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type"/>
+                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type">Cavalry (Skirmish)</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -3829,7 +3591,7 @@ Could not find wargear in The entire unit may replace its Legion Spatha combat b
 Chainsword is in two option lists for Legion Hussar, you will need to combine them by hand.
 Bolt Pistol is in two option lists for Legion Hussar, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Sky-Seeker Squadron" type="unit" id="c0a1-df5f-4e38-89e8" page="27" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Sky-Seeker Squadron" type="unit" id="c0a1-df5f-4e38-89e8" page="27" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="bfaa-f16a-4938-8876"/>
         <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="c686-6459-43af-a52f" name="Troops"/>
@@ -3852,7 +3614,7 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
                 <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">1</characteristic>
                 <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">7</characteristic>
                 <characteristic typeId="e593-6b3c-f169-04f0" name="Save">3+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type"/>
+                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type">Cavalry (Antigrav)</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -4249,58 +4011,8 @@ Could not find wargear in The entire unit may replace its Legion Estoc Jetbikesâ
 Chainsword is in two option lists for Legion Sky-Seeker, you will need to combine them by hand.
 Bolt Pistol is in two option lists for Legion Sky-Seeker, you will need to combine them by hand.</comment>
     </selectionEntry>
-    <selectionEntry name="Legion Assault Support Squad" type="unit" id="c91c-8095-41e1-a730" page="28" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="17a0-b975-4029-a3e0"/>
-        <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="04b3-b2eb-43d8-930e" name="Troops"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="90"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Legionary" id="8cc3-4011-4584-92f1" page="28" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="1498-4c81-4768-b3fc" name="Legionary" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">7</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">4</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">4</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">1</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">1</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">7</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">3+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type"/>
-              </characteristics>
-            </profile>
-          </profiles>
-        </selectionEntry>
-        <selectionEntry type="model" name="Legion Assault Sergeant" id="31aa-43dd-47d1-b537" page="28" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="c278-102c-48b0-836d" name="Legion Assault Sergeant" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">7</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">4</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">4</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">1</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">2</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">8</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">3+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type"/>
-              </characteristics>
-            </profile>
-          </profiles>
-        </selectionEntry>
-      </selectionEntries>
-      <comment>!BSC Errors from 20240406-1603
-Could not find profile for Legionaries in [&apos;Legionary&apos;, &apos;Legion Assault Sergeant&apos;]</comment>
-    </selectionEntry>
-    <selectionEntry name="Legion Novicii Squad*" type="unit" id="7322-a79c-4ce8-8b16" page="29" publicationId="3970-79bb-bdc6-9599">
+    
+    <selectionEntry name="[LC] Legion Novicii Squad*" type="unit" id="7322-a79c-4ce8-8b16" page="29" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="a326-8c3a-410a-bc8d"/>
         <categoryLink targetId="9b5d-fac7-799b-d7e7" primary="true" id="05c2-a58c-4821-bf15" name="Troops"/>
@@ -4630,7 +4342,7 @@ Could not find wargear in For every ten models in the unit beyond its original s
         <infoLink name="Support Squad" hidden="false" type="rule" targetId="768e-56d6-ca52-24ae" id="041e-8b28-4d79-acea"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Legion Rhino Advancer" type="unit" id="83d6-bbaa-416c-9de9" page="30" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Rhino Advancer" type="unit" id="83d6-bbaa-416c-9de9" page="30" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="de4d-6cb4-4526-9e75"/>
       </categoryLinks>
@@ -4794,155 +4506,8 @@ Could not find wargear in The Legion Rhino Advancer may take one of the followin
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Legion Whispercutter" type="unit" id="b176-b2c5-477c-9200" page="31" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="e2b2-e630-47f8-92bc"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="75"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Legion Whispercutter" id="73e8-7df0-410f-adba" page="31" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="7c1e-8f30-44be-8bbe" name="Legion Whispercutter" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">16</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">4</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">6</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">3</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">2</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">8</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">3+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type">Cavalry (Antigrav, Heavy, Transport*)</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2fb1-0941-4cad-b4a3"/>
-            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2cc6-bd4c-436a-b489"/>
-          </constraints>
-          <entryLinks>
-            <entryLink name="Heavy Bolter" hidden="false" type="selectionEntry" targetId="6024-6953-b8f4-ce63" id="107d-402a-4d8e-b424">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="532e-cb88-406b-afec"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="008f-59cb-4436-98da"/>
-              </constraints>
-            </entryLink>
-          </entryLinks>
-          <selectionEntryGroups>
-            <selectionEntryGroup name="A Legion Whispercutter may replace its Heavy Bolter with a:" id="74dc-ef9a-4b44-8549">
-              <entryLinks>
-                <entryLink name="Heavy Flamer" hidden="false" type="selectionEntry" targetId="aab4-9e33-94f0-5815" id="dfc0-f2e5-4d8e-b0e5">
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d67e-c5f0-4b83-853f"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Havoc Launcher" hidden="false" type="selectionEntry" targetId="bde9-5abf-ec3d-2273" id="977f-5189-41fa-8b7b">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ce50-d840-4db0-bcc0"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Volkite Culverin" hidden="false" type="selectionEntry" targetId="170d-44e0-455c-8207" id="9ba0-b40e-4022-beaf">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4e77-4643-4bf4-ac6c"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="43f5-3815-6b3a-a363" id="0125-8946-4e2d-a926">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d38e-7056-4727-8322"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Graviton Gun" hidden="false" type="selectionEntry" targetId="5303-5a3e-de51-1707" id="a356-7b71-481a-9d97">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d4ca-fa2d-46d5-81b6"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Multi-Melta" hidden="false" type="selectionEntry" targetId="9332-3834-cf3a-56b4" id="cbf5-6276-4ad1-9ac0">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e6b0-18f7-4e69-8a96"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="bdc7-3f9b-4c67-8641" id="6129-3384-4341-bf19">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6afd-6a5e-4801-84b3"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Graviton Gun" hidden="false" type="selectionEntry" targetId="ea9f-c901-465b-aaaf" id="5d4f-a226-4846-97ca">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="919a-54f9-4d05-8309"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dff6-5754-43f3-a7b1"/>
-              </constraints>
-            </selectionEntryGroup>
-            <selectionEntryGroup name="A Legion Whispercutter may take up to two:" id="6d50-1f24-434e-b958">
-              <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="c356-81ae-4fbd-a85c"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hunter Killer Missiles
-	 Checked under Hunter Killer Missiles</comment>
-            </selectionEntryGroup>
-          </selectionEntryGroups>
-          <categoryLinks>
-            <categoryLink targetId="4303-1348-cce4-9501" id="996c-d157-446e-8029" name="Antigrav" primary="false"/>
-            <categoryLink targetId="9231-183c-b97b-63f9" id="8934-f1bc-417d-9658" name="Heavy" primary="false"/>
-          </categoryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight
-Could not find wargear in A Legion Whispercutter may take up to two:
-Could not find type or subtype &apos;Cavalry&apos;
-Could not find type or subtype &apos;Transport*&apos;</comment>
-        </selectionEntry>
-      </selectionEntries>
-      <infoLinks>
-        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="6b37-48c6-4302-8163"/>
-        <infoLink name="Transport Skiff" hidden="false" type="rule" targetId="19f6-375e-4962-a6f2" id="c600-fae4-465c-8a07">
-          <modifiers>
-            <modifier type="set" field="name" value="Transport Skiff*"/>
-          </modifiers>
-        </infoLink>
-        <infoLink name="Deep Strike" hidden="false" type="rule" targetId="f1e1-986f-c783-ca9e" id="4c69-847b-40e7-b6ee"/>
-        <infoLink name="Outflank" hidden="false" type="rule" targetId="bfbf-e75c-49a2-0285" id="88ee-c87e-4227-9ead"/>
-        <infoLink name="Assault Vehicle" hidden="false" type="rule" targetId="aa61-11f6-2bb5-7c0e" id="5023-463d-44a6-8277"/>
-        <infoLink name="Open-Topped (X)" hidden="false" type="rule" targetId="d976-d66b-49de-ac4b" id="904e-6fde-4ec8-a854">
-          <modifiers>
-            <modifier type="set" field="name" value="Open-Topped (5)"/>
-          </modifiers>
-        </infoLink>
-      </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Whispercutter
-The option &apos;Hunter Killer Missiles&apos; may need a &apos;multiply by number of models&apos; modifier</comment>
-    </selectionEntry>
-    <selectionEntry name="Mutated Spawn" type="unit" id="d20c-e065-4357-b70c" page="36" publicationId="3970-79bb-bdc6-9599">
+    
+    <selectionEntry name="[LC] Mutated Spawn" type="unit" id="d20c-e065-4357-b70c" page="36" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="84c3-cd2f-4df2-9ba1"/>
         <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="78d4-801b-4a3c-a5af" name="Fast Attack"/>
@@ -5017,122 +4582,8 @@ Could not find wargear Two Mutated Appendages
         <infoLink name="Traitor" hidden="false" type="rule" targetId="eff2-8b0e-21da-2f0d" id="55bc-6085-4795-bc99"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Legion Storm Eagle Transporter" type="unit" id="e88e-ed4c-45bf-b30a" page="37" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="6461-9991-4faf-8506"/>
-        <categoryLink targetId="20ef-cd01-a8da-376e" primary="true" id="0341-5924-4d8c-8bcf" name="Fast Attack"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="180"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Legion Storm Eagle Transporter" id="5a67-f870-42f5-b580" page="37" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="58fb-c688-4676-8d59" name="Legion Storm Eagle Transporter" typeId="2fae-b053-3f78-e7b2">
-              <characteristics>
-                <characteristic typeId="3614-4a2d-bffb-90e4" name="Move">18</characteristic>
-                <characteristic typeId="51fb-b7d9-aa59-863d" name="BS">4</characteristic>
-                <characteristic typeId="0ef8-a648-01d0-08ee" name="Front">12</characteristic>
-                <characteristic typeId="f150-c0dc-c192-9cb3" name="Side">12</characteristic>
-                <characteristic typeId="8d4e-2aea-fffc-d556" name="Rear">12</characteristic>
-                <characteristic typeId="a76c-83b1-602f-9e62" name="HP">4</characteristic>
-                <characteristic typeId="0c90-79e2-f768-e547" name="Transport Capacity">6</characteristic>
-                <characteristic typeId="e555-4aed-dfcc-c0b4" name="Unit Type">Vehicle (Flyer, Hover, Transport)</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="0439-f9bc-4981-96c9"/>
-            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1a9d-ae50-4f76-aa37"/>
-          </constraints>
-          <selectionEntryGroups>
-            <selectionEntryGroup name="A Legion Storm Eagle Transporter may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following:" id="2ac1-4cab-4444-b705">
-              <entryLinks>
-                <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="b743-809f-42c9-9377">
-                  <modifiers>
-                    <modifier type="set" field="name" value="Hull (Front) Mounted Twin-Linked Heavy Bolter"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="af0a-f5cb-47bd-85be"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="ef6c-f656-171a-03e1" id="6732-a2f7-4f6b-8675">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Hull (Front) Mounted Gravis Melta Cannon"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3c99-aae0-4212-8d98"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="65cc-0f51-4f63-b463" id="ffd0-9752-472e-ab20">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Hull (Front) Mounted Gravis Melta Cannon"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a43b-5369-479b-8567"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="838a-0abd-40c2-80e3"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Missile Launcher (with Frag and Krak Missiles)
-	 Checked under Missile Launcher (with Frag and Krak Missiles)</comment>
-            </selectionEntryGroup>
-            <selectionEntryGroup name="A Legion Storm Eagle Transporter may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:" id="93af-84ae-4b29-9a63">
-              <entryLinks>
-                <entryLink name="Twin-Linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="8b24-05ff-4928-83ed">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Two Hull (Front) Mounted Twin-Linked Lascannons"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a5da-fe33-4aa6-a948"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="56a7-2f76-47e6-82b3"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Four Hull (Front) Mounted Hunter-Killer Missiles
-	 Checked under Hunter-Killer Missiles</comment>
-            </selectionEntryGroup>
-          </selectionEntryGroups>
-          <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="d54d-1729-47b5-a7b5" name="Vehicle" primary="false"/>
-            <categoryLink targetId="4e84-2d57-4986-2b23" id="92b5-18ba-474d-978b" name="Flyer" primary="false"/>
-            <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="89dc-55e5-4250-a2b5" name="Hover" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="c2f2-ef14-4559-a613" name="Transport" primary="false"/>
-          </categoryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Four Hull (Front) Mounted Tempest Rockets
-	 Checked under Tempest Rockets
-Could not find wargear in A Legion Storm Eagle Transporter may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following:
-Could not find wargear in A Legion Storm Eagle Transporter may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:</comment>
-        </selectionEntry>
-      </selectionEntries>
-      <infoLinks>
-        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="1273-720a-493a-adef"/>
-        <infoLink name="Power of the Machine Spirit" hidden="false" type="rule" targetId="5a93-13e0-809d-782a" id="f274-57fe-4397-bb4e"/>
-        <infoLink name="Assault Vehicle" hidden="false" type="rule" targetId="aa61-11f6-2bb5-7c0e" id="f878-3bc4-41ca-81b9"/>
-        <infoLink name="Deep Strike" hidden="false" type="rule" targetId="f1e1-986f-c783-ca9e" id="2514-c2c5-4998-b30c"/>
-        <infoLink name="Infantry Transport" hidden="false" type="rule" targetId="0c6b-9cc1-5801-3e83" id="e4ce-4d33-4577-ae06"/>
-        <infoLink name="Auxiliary Vehicle Bay" hidden="false" type="rule" targetId="8837-14e8-344a-1f39" id="ef7f-4651-420e-a158"/>
-        <infoLink name="Combat Transporter" hidden="false" type="rule" targetId="4abe-cde7-45d8-9b7f" id="260b-df0b-4e63-b287"/>
-        <infoLink name="Dreadnought Magna-Grapples" hidden="false" type="rule" targetId="b96a-32fc-44bc-b165" id="d924-3cbe-4bd5-8583"/>
-      </infoLinks>
-    </selectionEntry>
-    <selectionEntry name="Legion Sicaran Incinerator Squadron" type="unit" id="bb59-1d00-42d4-aaa7" page="42" publicationId="3970-79bb-bdc6-9599">
+    
+    <selectionEntry name="[LC] Legion Sicaran Incinerator Squadron" type="unit" id="bb59-1d00-42d4-aaa7" page="42" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="aff1-8e25-4d1d-9bb6"/>
         <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="694a-fa4f-4749-908e" name="Heavy Support"/>
@@ -5323,195 +4774,8 @@ Could not find wargear in Any Legion Sicaran Incinerator may take one of the fol
         <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="6965-ce78-43d3-ad4a"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Legion Vindicator Thunderer Squadron" type="unit" id="0154-d7ea-4dcf-8db1" page="43" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="5f71-cc63-4940-9703"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="ceef-cdea-4a68-a57a" name="Heavy Support"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Legion Vindicator Thunderer" id="2813-4472-4a06-b7eb" page="43" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="dad7-a5e6-4ee6-89f4" name="Legion Vindicator Thunderer" typeId="2fae-b053-3f78-e7b2">
-              <characteristics>
-                <characteristic typeId="3614-4a2d-bffb-90e4" name="Move">12</characteristic>
-                <characteristic typeId="51fb-b7d9-aa59-863d" name="BS">4</characteristic>
-                <characteristic typeId="0ef8-a648-01d0-08ee" name="Front">13</characteristic>
-                <characteristic typeId="f150-c0dc-c192-9cb3" name="Side">13</characteristic>
-                <characteristic typeId="8d4e-2aea-fffc-d556" name="Rear">10</characteristic>
-                <characteristic typeId="a76c-83b1-602f-9e62" name="HP">4</characteristic>
-                <characteristic typeId="0c90-79e2-f768-e547" name="Transport Capacity">-</characteristic>
-                <characteristic typeId="e555-4aed-dfcc-c0b4" name="Unit Type">Vehicle (Reinforced)</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8eb9-89fd-4dcd-b4f0"/>
-            <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="b7d1-1b6b-45e9-986a"/>
-          </constraints>
-          <entryLinks>
-            <entryLink name="Avenger Bolt Cannon" hidden="false" type="selectionEntry" targetId="0694-69c5-e871-589a" id="a5c9-f672-4c58-92a7">
-              <modifiers>
-                <modifier type="set" field="name" value="Centreline Mounted Avenger Bolt Cannon"/>
-              </modifiers>
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2b2d-8f5f-4f82-8c12"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7dda-f952-413a-8c6e"/>
-              </constraints>
-            </entryLink>
-            <entryLink name="Combi-Bolter" hidden="false" type="selectionEntry" targetId="0f3d-c07c-7a7e-d534" id="c608-0ea3-4ec6-a6f7">
-              <modifiers>
-                <modifier type="set" field="name" value="Hull (Front) Mounted Combi-Bolter"/>
-              </modifiers>
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8155-87be-491f-8416"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cc30-dd52-4f1e-901e"/>
-              </constraints>
-            </entryLink>
-            <entryLink name="Smoke Launchers" hidden="false" type="selectionEntry" targetId="0873-34dd-e52d-d33c" id="4812-abdc-48ae-b7f6">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b8f8-e63a-4291-8a5b"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="079f-71bc-48b1-b102"/>
-              </constraints>
-            </entryLink>
-            <entryLink name="Avenger Bolt Cannon" hidden="false" type="selectionEntry" targetId="5cf5-0fba-4b68-ab9b" id="96c4-4460-433f-bd4b">
-              <modifiers>
-                <modifier type="set" field="name" value="Centreline Mounted Avenger Bolt Cannon"/>
-              </modifiers>
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1247-8ca8-4bc9-8a6b"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="aeaa-aefc-48eb-ad8b"/>
-              </constraints>
-            </entryLink>
-          </entryLinks>
-          <selectionEntryGroups>
-            <selectionEntryGroup name="Any Legion Vindicator Thunderer may exchange its Avenger Bolt Cannon for:" id="5edf-550d-4b31-b250">
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0956-132a-4828-9b6a"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline Mounted Quad Launcher with Frag Shells
-	 Checked under Quad Launcher with Frag Shells</comment>
-            </selectionEntryGroup>
-            <selectionEntryGroup name="Any Legion Vindicator Thunderer may take one of the following:" id="e92a-e6eb-41d8-8314">
-              <entryLinks>
-                <entryLink name="Twin-Linked Bolter" hidden="false" type="selectionEntry" targetId="e31a-fd70-35c7-8bed" id="746f-449e-4459-a4c0">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Pintle Mounted Twin-Linked Bolter"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e93d-4579-467b-97cf"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Heavy Flamer" hidden="false" type="selectionEntry" targetId="aab4-9e33-94f0-5815" id="c753-6702-4ff5-8a11">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Pintle Mounted Heavy Flamer"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="181b-105f-4de0-aa89"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Heavy Bolter" hidden="false" type="selectionEntry" targetId="6024-6953-b8f4-ce63" id="4536-92f7-4c63-99aa">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Pintle Mounted Heavy Bolter"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5d6c-ddbf-45a3-bef1"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Havoc Launcher" hidden="false" type="selectionEntry" targetId="bde9-5abf-ec3d-2273" id="c398-122d-4109-b60c">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Pintle Mounted Havoc Launcher"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="222a-80bf-4a8c-aaa7"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Multi-Melta" hidden="false" type="selectionEntry" targetId="9332-3834-cf3a-56b4" id="733b-236e-4905-aa0b">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="20"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="Pintle Mounted Multi-Melta"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6d35-477f-4217-8f67"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e4fa-4e99-407b-96b7"/>
-              </constraints>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
-            </selectionEntryGroup>
-            <selectionEntryGroup name="Any Legion Vindicator Thunderer may take any of the following:" id="7baa-2716-4528-a693">
-              <entryLinks>
-                <entryLink name="Hunter-Killer Missile" hidden="false" type="selectionEntry" targetId="1bf8-72f8-c331-6900" id="ce93-c23a-4b1c-8a44">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <modifiers>
-                    <modifier type="set" field="name" value="One Hull (Front) Mounted Hunter-Killer Missile"/>
-                  </modifiers>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0099-7d8e-405d-a2e0"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Searchlights" hidden="false" type="selectionEntry" targetId="a280-c496-4014-aca3" id="1eae-060f-4233-b869">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ac67-2058-47e4-bd9e"/>
-                  </constraints>
-                </entryLink>
-                <entryLink name="Dozer Blade" hidden="false" type="selectionEntry" targetId="42e1-f6cf-1f2b-a492" id="b879-4d58-46a1-a937">
-                  <costs>
-                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
-                  </costs>
-                  <constraints>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3560-ac62-452c-8ecd"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4a26-c089-4fd7-99c4"/>
-              </constraints>
-            </selectionEntryGroup>
-          </selectionEntryGroups>
-          <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="fe52-68ac-41d3-973d" name="Vehicle" primary="false"/>
-            <categoryLink targetId="9b0d-738c-10e4-4ec1" id="ba7a-f17c-4e17-85c9" name="Reinforced" primary="false"/>
-          </categoryLinks>
-          <costs>
-            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="105"/>
-          </costs>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Legion Vindicator Thunderer may exchange its Avenger Bolt Cannon for:
-Could not find wargear in Any Legion Vindicator Thunderer may take one of the following:</comment>
-        </selectionEntry>
-      </selectionEntries>
-      <infoLinks>
-        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="1def-9bad-4a6f-b218"/>
-      </infoLinks>
-    </selectionEntry>
-    <selectionEntry name="Legion Fire Raptor Destroyer" type="unit" id="7264-ce9d-4a66-834e" page="44" publicationId="3970-79bb-bdc6-9599">
+    
+    <selectionEntry name="[LC] Legion Fire Raptor Destroyer" type="unit" id="7264-ce9d-4a66-834e" page="44" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="2661-1c16-4de2-9d42"/>
         <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="2755-ba38-42e4-9e61" name="Heavy Support"/>
@@ -5629,7 +4893,7 @@ Could not find wargear in A Legion Fire Raptor Destroyer may exchange all of its
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Early Great Crusade Havoc Squad" type="unit" id="e112-e4d2-45f7-b5bd" page="45" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Early Great Crusade Havoc Squad" type="unit" id="e112-e4d2-45f7-b5bd" page="45" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="c978-9aee-43d0-98ba"/>
         <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="8662-3130-4e12-ae79" name="Heavy Support"/>
@@ -5962,179 +5226,9 @@ Could not find rule: Volatile Ordnance (Legionary Weapons Team only)</comment>
         <constraint type="max" value="1" field="selections" scope="force" shared="true" id="9c7a-8774-d189-8a2e" includeChildSelections="true"/>
       </constraints>
     </selectionEntry>
-    <selectionEntry name="Legion Tartaros Heavy Destroyer Squad" type="unit" id="32a8-5aa5-4636-9115" page="46" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="63e7-695b-41ce-9a0c"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="a69c-161b-4cec-b0d5" name="Heavy Support"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="190"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Legion Tartaros Heavy Destroyer" id="9639-eea7-4360-8c13" page="46" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="348f-0279-4b76-ba69" name="Legion Tartaros Heavy Destroyer" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">7</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">4</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">4</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">2</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">2</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">7</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">2+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type"/>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="fb64-c171-4942-8184"/>
-            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="dd71-1da8-492d-99d0"/>
-          </constraints>
-          <entryLinks>
-            <entryLink name="Combi-Bolter" hidden="false" type="selectionEntry" targetId="0f3d-c07c-7a7e-d534" id="e9b7-1eac-4dc8-952b">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5e04-4d61-4af0-8b6c"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5d3c-6a57-4354-997d"/>
-              </constraints>
-            </entryLink>
-            <entryLink name="Chainaxe" hidden="false" type="selectionEntry" targetId="3a0d-c3bb-dc59-a4c3" id="e793-b884-4d58-8c31">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="4e23-283b-4390-bfd8"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3ef8-8dc6-446f-a72a"/>
-              </constraints>
-            </entryLink>
-          </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Tartaros Terminator Armour
-	 Checked under Legion Tartaros Terminator Armour</comment>
-        </selectionEntry>
-        <selectionEntry type="model" name="Legion Tartaros Ruin Master" id="331b-e1dc-4cee-8ca7" page="46" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="ae42-4198-461f-bc80" name="Legion Tartaros Ruin Master" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">7</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">4</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">4</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">2</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">3</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">8</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">2+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type">Infantry (Character)</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="c811-b592-4cb3-814f"/>
-            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c007-20e7-4ad9-a993"/>
-          </constraints>
-          <entryLinks>
-            <entryLink name="Combi-Bolter" hidden="false" type="selectionEntry" targetId="0f3d-c07c-7a7e-d534" id="b11c-0222-4c16-ada4">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="a723-78cd-48de-94f1"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9c32-8713-4c65-b8cf"/>
-              </constraints>
-            </entryLink>
-            <entryLink name="Chainaxe" hidden="false" type="selectionEntry" targetId="3a0d-c3bb-dc59-a4c3" id="d24b-2ee6-47ac-91e1">
-              <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="a3e0-7bc7-48ad-b573"/>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="11af-dc61-4794-86b3"/>
-              </constraints>
-            </entryLink>
-          </entryLinks>
-          <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ceba-43ac-43a6-bc97" name="Infantry" primary="false"/>
-            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="0497-caf7-4f29-afb1" name="Character" primary="false"/>
-          </categoryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Tartaros Terminator Armour
-	 Checked under Legion Tartaros Terminator Armour</comment>
-        </selectionEntry>
-      </selectionEntries>
-      <infoLinks>
-        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="23f4-3091-46d9-bc7b"/>
-        <infoLink name="Relentless" hidden="false" type="rule" targetId="7adf-ac9a-5035-522d" id="3986-6f3a-4989-99ad"/>
-        <infoLink name="Stubborn" hidden="false" type="rule" targetId="7989-1f2c-a43d-82ae" id="0380-2ba0-455f-85c0"/>
-        <infoLink name="Bulky (X)" hidden="false" type="rule" targetId="676c-7b75-4b6f-9405" id="c640-1652-4503-8e54">
-          <modifiers>
-            <modifier type="set" field="name" value="Bulky (2)"/>
-          </modifiers>
-        </infoLink>
-        <infoLink name="Firing Protocols (X)" hidden="false" type="rule" targetId="32a3-f599-5c92-2945" id="bf22-c7ad-4f54-98fb">
-          <modifiers>
-            <modifier type="set" field="name" value="Firing Protocols (2)"/>
-          </modifiers>
-        </infoLink>
-        <infoLink name="Counter-Attack (X)" hidden="false" type="rule" targetId="fd6d-2a76-10e0-936a" id="135f-3d89-49af-b169">
-          <modifiers>
-            <modifier type="set" field="name" value="Counter-Attack (1)"/>
-          </modifiers>
-        </infoLink>
-        <infoLink name="Bitter Duty" hidden="false" type="rule" targetId="d1b8-31da-c53c-4fe2" id="7271-d14e-4249-a29e"/>
-        <infoLink name="Support Squad" hidden="false" type="rule" targetId="768e-56d6-ca52-24ae" id="81b9-3e79-48f8-bec9"/>
-      </infoLinks>
-    </selectionEntry>
-    <selectionEntry name="Legion Cataphractii Heavy Destroyer Squad" type="unit" id="a80d-c621-43b6-8d8b" page="48" publicationId="3970-79bb-bdc6-9599">
-      <categoryLinks>
-        <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="4a06-4d36-435c-a409"/>
-        <categoryLink targetId="7031-469a-1aeb-eab0" primary="true" id="5633-76fa-4bd1-98b8" name="Heavy Support"/>
-      </categoryLinks>
-      <costs>
-        <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="215"/>
-      </costs>
-      <selectionEntries>
-        <selectionEntry type="model" name="Legion Cataphractii Heavy Destroyer" id="05de-72bc-4e3b-98b3" page="48" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="b6c5-2878-4062-826d" name="Legion Cataphractii Heavy Destroyer" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">6</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">4</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">4</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">2</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">2</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">7</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">2+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type"/>
-              </characteristics>
-            </profile>
-          </profiles>
-          <constraints>
-            <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="314d-7418-4f58-8517"/>
-            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="d40e-8d33-47d6-82a3"/>
-          </constraints>
-        </selectionEntry>
-        <selectionEntry type="model" name="Legion Cataphractiii Ruin Master" id="8b2a-bfdf-43f6-8c65" page="48" publicationId="3970-79bb-bdc6-9599">
-          <profiles>
-            <profile id="f92e-4ab4-491d-a31e" name="Legion Cataphractiii Ruin Master" typeId="4bb2-cb95-e6c8-5a21">
-              <characteristics>
-                <characteristic typeId="893e-2d76-8f04-44e5" name="Move">6</characteristic>
-                <characteristic typeId="cc42-7ed5-7092-5c84" name="WS">4</characteristic>
-                <characteristic typeId="74ae-c840-0036-d244" name="BS">4</characteristic>
-                <characteristic typeId="e478-41d4-a092-48a8" name="S">4</characteristic>
-                <characteristic typeId="c32b-5fdd-3fbe-9b1f" name="T">4</characteristic>
-                <characteristic typeId="57ee-1126-32a9-5672" name="W">2</characteristic>
-                <characteristic typeId="62d3-22d7-2d49-52dc" name="I">4</characteristic>
-                <characteristic typeId="f111-2ce5-dd12-d6b0" name="A">3</characteristic>
-                <characteristic typeId="e8a6-1da9-d384-8727" name="Ld">8</characteristic>
-                <characteristic typeId="e593-6b3c-f169-04f0" name="Save">2+</characteristic>
-                <characteristic typeId="ddd7-6f5c-a939-b69e" name="Unit Type"/>
-              </characteristics>
-            </profile>
-          </profiles>
-        </selectionEntry>
-      </selectionEntries>
-      <comment>!BSC Errors from 20240406-1603
-Could not find profile for Legion Cataphractii Ruin Master in [&apos;Legion Cataphractii Heavy Destroyer&apos;, &apos;Legion Cataphractiii Ruin Master&apos;]</comment>
-    </selectionEntry>
-    <selectionEntry name="Legion Banesword" type="unit" id="658b-333a-4c15-b739" page="54" publicationId="3970-79bb-bdc6-9599">
+    
+    
+    <selectionEntry name="[LC] Legion Banesword" type="unit" id="658b-333a-4c15-b739" page="54" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="ef93-a17e-4193-a227"/>
         <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="a46f-8f75-4ef8-9445" name="Lords of War"/>
@@ -6320,7 +5414,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
         <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="cfc6-d4dd-49f7-a3e7"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Legion Doomhammer" type="unit" id="ac9d-af7c-4709-a6d2" page="55" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Doomhammer" type="unit" id="ac9d-af7c-4709-a6d2" page="55" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="53f9-a37b-4a80-a060"/>
         <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="fbe5-2be2-4049-8d13" name="Lords of War"/>
@@ -6508,7 +5602,7 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
         <infoLink name="Tank Desant" hidden="false" type="rule" targetId="f690-0d4f-dae7-d730" id="3585-8d2d-4cd3-a99f"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Legion Orthrus Destroyer Squadron" type="unit" id="4b16-34fb-4262-95a2" page="56" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Legion Orthrus Destroyer Squadron" type="unit" id="4b16-34fb-4262-95a2" page="56" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="1e2a-6297-4038-8fe9"/>
         <categoryLink targetId="c658-dc6b-727b-c488" primary="true" id="97ae-c363-499e-a499" name="Lords of War"/>
@@ -6715,7 +5809,7 @@ Could not find wargear in Any Legion Orthrus Destroyer may take one of the follo
         <infoLink name="Reactor Blast" hidden="false" type="rule" targetId="85c2-d84d-6a4f-ab64" id="a0b7-793b-4b98-afc1"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry name="Basilisk Anti-Air Emplacement Battery" type="unit" id="ca32-4dab-4bf6-b3ed" page="60" publicationId="3970-79bb-bdc6-9599">
+    <selectionEntry name="[LC] Basilisk Anti-Air Emplacement Battery" type="unit" id="ca32-4dab-4bf6-b3ed" page="60" publicationId="3970-79bb-bdc6-9599">
       <categoryLinks>
         <categoryLink targetId="36c3-e85e-97cc-c503" name="Unit:" primary="false" id="93b7-bd8b-4614-87d9"/>
         <categoryLink targetId="a24f-12d8-36c1-f477" primary="true" id="7dc4-86c9-469e-b324" name="Fortification"/>
@@ -6772,8 +5866,8 @@ Could not find type or subtype &apos;Battlements&apos;</comment>
     </selectionEntry>
   </sharedSelectionEntries>
   <catalogueLinks>
-    <catalogueLink id="5f24-4626-0547-71c3" name="Panoptica Library" targetId="69b7-3f60-9f7f-8ce5" type="catalogue" importRootEntries="true"/>
-    <catalogueLink id="5f24-4242-71c3-0547" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="b7e1-4c0a-93d2-6a12" name="Panoptica Library" targetId="69b7-3f60-9f7f-8ce5" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="b7e1-4c0a-93d2-6a11" name="Mech Library" targetId="7265-8b7a-50ae-51ec" type="catalogue" importRootEntries="true"/>
     <catalogueLink id="2f60-4242-e6ed-8574" name="Legions Astartes" targetId="25e4-c9e5-8165-1337" type="catalogue" importRootEntries="true"/>
   </catalogueLinks>
 </catalogue>
